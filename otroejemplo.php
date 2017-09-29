@@ -1,1 +1,1 @@
-ejemplos de los tours para subir repos
+ejemplos de los tours para subir repos, todos somos los cambios que agregamos para los directorios 
